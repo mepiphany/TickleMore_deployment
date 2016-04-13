@@ -1,0 +1,21 @@
+.navbar-header {
+  text-align: center;
+  float: none;
+}
+.video-container {
+  text-align: center;
+  width: 400px;
+  height: 580px;
+  padding-top: 10px;
+  margin: auto;
+}
+
+.navbar {
+  margin-bottom: 9px;
+  background-color: #FFE303;
+  border-color: #FFE303;
+}
+
+.main-container {
+  background-color: #0e1717;
+}
